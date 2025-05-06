@@ -50,13 +50,6 @@ Skin cancer is one of the most common forms of cancer globally, and early detect
 4. Monitor training and validation results.
 5. Evaluate the model using test images.
 
-## Future Enhancements
-
-* Use of **pre-trained models** like VGG16, ResNet for improved accuracy.
-* Deploy as a **web app** using Flask or Streamlit.
-* Expand classification into multiple types of skin lesions.
-* Incorporate explainable AI (XAI) methods like Grad-CAM.
-
 ## Author
 
 **Dhruthi N**
