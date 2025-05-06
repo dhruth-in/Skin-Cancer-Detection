@@ -1,7 +1,3 @@
-Here’s a `README.md` tailored for your **Skin Cancer Detection** project based on the shared Colab link:
-
----
-
 # Skin Cancer Detection using CNN
 
 This project leverages **Convolutional Neural Networks (CNNs)** to detect **skin cancer** from images. It uses deep learning to classify skin lesions as benign or malignant, aiding in early diagnosis and reducing the dependency on manual screening.
